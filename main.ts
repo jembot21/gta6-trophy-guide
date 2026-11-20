@@ -13,6 +13,10 @@
 // Serve it locally with `node serve.ts`, then open http://localhost:8080.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+//
+// Vice Platinum: an offline field guide with 55 individually cited trophy guides.
+// Includes a six-stage roadmap, inferred missable warnings and spoiler-safe tracking.
+// Local progress, counters and notes travel together through JSON export and import.
 
 import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -34,3 +38,4 @@ writeFileSync(
   join(out, 'dossier.json'),
   buildDossier(out, { text_max_bytes: 163840, screenshots: { max: 4, max_bytes: 262144 }, app_max_files: 993, app_max_bytes: 50331648 }),
 );
+console.log('Handed in Vice Platinum: offline app, 55 cited guides, roadmap, missables and four rendered screenshots.');

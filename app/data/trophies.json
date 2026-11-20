@@ -1,392 +1,60 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
+ "game":"Grand Theft Auto VI","platform":"PlayStation 5","list":"the official 55 trophies, 2026-11-18",
+ "trophies":[
+ {"id":1,"name":"Vice Got a Price!","description":"Congratulations! You're a Leonida Legend.","grade":"platinum","kind":"story","stage":6,"guide":"Treat this as your final checklist audit: earn the other 54 trophies, then compare the console list with your marked entries here. Finish the 100% requirement separately from trophy cleanup; the two should not be assumed identical. Export your progress before the final sweep so unresolved requirements survive. The description celebrates completion but does not specify additional platinum conditions; verify the unlock on PlayStation.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":2,"name":"Just Like Paradise","description":"Complete Gone Fishing.","grade":"bronze","kind":"story","stage":1,"guide":"Play the story in order until Gone Fishing is available, then complete its objectives through the mission result. Keep a manual save before starting if you want to revisit the sequence, and only tick this after the console notification. Use this milestone to check your tracker is saving correctly. The description names the mission but gives neither its route nor chapter placement; those details need in-game confirmation.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":3,"name":"Paradise Lost","description":"Complete Chapter 1.","grade":"bronze","kind":"story","stage":1,"guide":"Follow the main story through Chapter 1, completing required missions in the order the game offers them. Before moving on, review the early Ocean Beach warning and keep a separate save for unresolved story opportunities. Mark the chapter complete only when the trophy actually unlocks. The official description establishes the chapter endpoint, not a mission-by-mission route or a confirmed replay option.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":4,"name":"T**s Ass Drug Money","description":"Complete Chapter 2.","grade":"bronze","kind":"story","stage":1,"guide":"Continue the main story in sequence and finish Chapter 2. Keep chapter-boundary saves rather than repeatedly overwriting one slot, especially while choice-related trophies remain unresolved. Side activities can be logged as you encounter them, but do not mistake them for known chapter requirements. This milestone comes from the named chapter in the official description; its final mission and exact unlock timing are not supplied there.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":5,"name":"Vice City, Baby!","description":"Complete Chapter 3.","grade":"bronze","kind":"story","stage":1,"guide":"Advance through the story in its offered order until Chapter 3 is finished. Before accepting a transition, inspect your remaining story warnings and preserve a save that can return to the current chapter. Record mission-specific opportunities in your notes rather than relying on memory during cleanup. Only the Chapter 3 completion condition is established by the description; no particular finale mission or mandatory side task is named.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":6,"name":"Top Of The World, Ma","description":"Complete Chapter 4.","grade":"bronze","kind":"story","stage":1,"guide":"Work through the main missions in order and complete Chapter 4. Maintain an earlier save before large story transitions, then check the console trophy list before marking this milestone. Review the VCIA and choice warnings while those opportunities may still be accessible. The description identifies Chapter 4 alone, so mission order within it and replay availability remain to be checked in game.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":7,"name":"You Gotta Know When to Get Off","description":"Complete the final mission.","grade":"gold","kind":"story","stage":1,"guide":"Follow the story in order through its final mission and complete the full result sequence. Before beginning, export your tracker and retain a separate pre-finale save so unresolved choices can be investigated without rebuilding a playthrough. Check the missables page before committing. The official description does not name the finale, specify an ending, or promise postgame access; those conditions should not be treated as confirmed.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":8,"name":"Trust","description":"Complete Breakfast Run.","grade":"bronze","kind":"story","stage":1,"guide":"Progress through the main story until Breakfast Run is offered, then follow its objectives to completion. Keep the mission result distinct from optional challenges: the trophy description asks for completion, not a medal or time target. Note unresolved opportunities before advancing to the next story beat. The named mission is the only route information supplied by the official text; its chapter and exact checkpoint are unconfirmed here.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":9,"name":"Break the Bank","description":"Complete The Cartel Heist.","grade":"bronze","kind":"story","stage":1,"guide":"Play the main story in order and finish The Cartel Heist when it becomes available. Preserve a save before the mission so you can revisit its setup if another requirement overlaps. Do not count a story heist toward the separate bank-vault trophy unless the game records it. The official description confirms this mission requirement but does not establish its chapter, approach, or crossover credit.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":10,"name":"Family Matters","description":"Complete Child's Play.","grade":"bronze","kind":"story","stage":1,"guide":"Continue the story in sequence until Child's Play appears and finish the mission rather than stopping at an intermediate checkpoint. Keep a pre-mission save and record the trophy notification before ticking the box. If it does not unlock, first confirm the mission result was saved before attempting a replay. The description names Child's Play but offers no chapter assignment, alternate objective, or replay guarantee.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":11,"name":"DWNFALL","description":"Complete Headliners.","grade":"bronze","kind":"story","stage":1,"guide":"Follow the story in order until Headliners becomes available and complete its objectives through the final result. Keep a save before starting, then note any choices that might matter to other trophies. This is a mission-completion milestone, so avoid inventing medal requirements while planning your run. The official wording identifies Headliners but does not reveal its chapter, branching conditions, or exact unlock checkpoint.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":12,"name":"Hi-Jacked","description":"Complete VCIA Takedown.","grade":"bronze","kind":"story","stage":1,"guide":"Play the story in sequence until VCIA Takedown, then finish the mission. Before closing this window, inspect Catch Me If You Can: its unscheduled airport departure is the related missable precaution in this roadmap. Keep a separate pre-mission save until both unlocks are checked. VCIA means Vice City International Airport; the mission description itself does not specify a departure route or replay method.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets); GTA Wiki (gta.fandom.com) for world terms"},
+ {"id":13,"name":"Snow Storm","description":"Complete Operation Savage Glory.","grade":"bronze","kind":"story","stage":1,"guide":"Continue through the main story in order and complete Operation Savage Glory when it is offered. Save beforehand and wait for the full mission result before marking this trophy. Use that pause to record any unfinished story opportunities rather than assuming later access. The official description supplies the operation's name only; its chapter, location, and any relationship to the final mission are not established by that text.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":14,"name":"A Long Road","description":"Attain 100% Completion.","grade":"gold","kind":"activities","stage":6,"guide":"Use the game's completion record as the authority and finish its outstanding categories after your story, activity, exploration, and money sweeps. Keep notes on each remaining percentage requirement so you do not repeat finished work. A trophy checklist and a completion checklist may differ; buying or collecting everything blindly is inefficient. The official description gives 100% as the endpoint but does not enumerate the activities that contribute to it.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":15,"name":"Cunning Stunts","description":"Complete 250 Stunts.","grade":"silver","kind":"activities","stage":3,"target":250,"unit":"stunts","guide":"Build this gradually alongside travel: attempt a manageable batch of stunts, check which completions the game recognizes, and copy that confirmed total into the counter below. Keep a note of reliable attempts so each session adds progress rather than failed jumps. Aim for 250 recorded completions. Whether repeats count and what qualifies as a stunt are not defined in the description, so validate those rules before farming one route.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":16,"name":"Master of None","description":"Try each type of activity once.","grade":"bronze","kind":"activities","stage":3,"guide":"Keep a short activity-type ledger in your notes and try a fresh category whenever one appears. Mark a type after a genuine played attempt rather than merely opening its menu. Combine this survey with scouting races, the range, and arcade opportunities before specializing. The description asks for every type but does not state how many types exist or what counts as an attempt; use in-game records to resolve those boundaries.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":17,"name":"The Shootist","description":"Earn a gold medal in all Shooting Range challenges.","grade":"silver","kind":"activities","stage":3,"guide":"At the Shooting Range, record each challenge and its best medal. Practice one challenge until its gold threshold is reliable, then move on; this avoids scattering attempts across unfinished entries. Recheck the challenge menu for any remaining lower medals before calling the range finished. The official description requires gold everywhere but supplies neither a challenge count nor scoring thresholds, so read those from the game rather than assuming a fixed total.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":18,"name":"Top Fun","description":"Win a Top Fun Drone Race at every location.","grade":"bronze","kind":"activities","stage":3,"guide":"Maintain a location ledger for Top Fun Drone Races and record a win at each venue, not just a race entry. Learn the course before chasing aggressive lines; repeat a failed venue until the result confirms victory, then move to another location. Pair travel with your exploration sweep. The description establishes every location as the requirement but does not name venues or give their total; confirm the list through in-game discovery.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":19,"name":"Earn Cash, Not Kudos","description":"Win 20 different races.","grade":"bronze","kind":"activities","stage":3,"target":20,"unit":"different race wins","guide":"Write down each race identity after a confirmed win, then update the counter toward 20. Replaying a familiar course may be good practice but does not satisfy the word different, so prioritize fresh events. Use a few wins per session and reserve difficult courses for later. The official description fixes the target but does not explain variant or class credit; check the game's record before counting variants as separate races.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":20,"name":"Baited My Tackle","description":"Beat Cal in a fishing challenge.","grade":"bronze","kind":"activities","stage":2,"guide":"When Cal offers a fishing challenge, learn the stated scoring rule before committing your attempt. Focus on the challenge result rather than assuming a large catch alone is enough. Keep notes on what worked and retry if the result does not show you beat Cal. The official text names the opponent and activity, but does not pin down a fishing spot, unlock mission, bait choice, or winning score.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":21,"name":"Stick Fiddler","description":"Complete an arcade game.","grade":"bronze","kind":"activities","stage":3,"guide":"Choose an arcade game you can learn comfortably and aim for its actual completion state, not a single round or a high score alone. Note its controls and stopping point so you can resume practice efficiently. Try this during your activity survey, then return for a focused run if needed. The trophy description does not identify a specific cabinet, venue, or ending condition; verify what completion means on the chosen game.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":22,"name":"Road to Rehabilitation","description":"Complete the final mission for Andy.","grade":"bronze","kind":"side","stage":2,"guide":"Follow Andy's mission strand through each offered assignment until its final mission is complete. If the strand seems to stop, record the last finished job and revisit after further story progress rather than assuming it is over. Keep a separate note for the final result so this does not get confused with starting the strand. The description names Andy but gives no meeting location, strand length, or unlock schedule.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":23,"name":"This Was No Boat Accident","description":"Complete the final mission for Kenton.","grade":"bronze","kind":"side","stage":2,"guide":"Work through Kenton's available assignments and continue until the strand's final mission result is recorded. Note the last completed task and any pending contact prompt if the next job is unavailable. Combine return visits with exploration rather than repeatedly checking without progress elsewhere. The official condition is Kenton's final mission; neither the title's boat reference nor the description establishes a particular location or required vehicle.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":24,"name":"The Lone Rider","description":"Complete the final mission for Billy.","grade":"bronze","kind":"side","stage":2,"guide":"Complete Billy's mission strand in its offered order, tracking the most recent finished assignment in your notes. Return when another job becomes available and continue through the final mission rather than marking the trophy at first contact. Check for an actual trophy notification before closing the strand ledger. The description supplies Billy's name and final-mission condition only; a route, vehicle requirement, and strand length are not specified.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":25,"name":"Strangers & Freaks","description":"Complete 8 mission strands for strangers across the state of Leonida.","grade":"silver","kind":"side","stage":2,"target":8,"unit":"completed strands","guide":"Keep a ledger of stranger names and finish whole mission strands before increasing the counter toward eight. A single assignment is not necessarily a completed strand. Sweep Leonida between story milestones, returning to contacts with unfinished work; use your notes to separate active strands from finished ones. The description gives eight strands but does not identify which contacts qualify or their access conditions, so confirm credit through the game's records.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets); GTA Wiki (gta.fandom.com) for world terms"},
+ {"id":26,"name":"Supply & Demand","description":"Complete the final mission for Randy.","grade":"bronze","kind":"side","stage":2,"guide":"Pursue Randy's available missions until the final assignment is finished. Keep an ordered note of completed jobs so a gap in availability does not get mistaken for strand completion. If another mission has not appeared, progress elsewhere and check again rather than inventing a prerequisite. The official description supports the named contact and endpoint, but does not identify Randy's meeting place, the number of jobs, or their timing.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":27,"name":"Spin On This!","description":"Complete the final mission for Tyrone.","grade":"bronze","kind":"side","stage":2,"guide":"Follow Tyrone's strand through its successive assignments and finish the last mission. Track the latest result in your notes, especially if you leave the strand for story progress or other contacts. Wait for the trophy unlock before treating it as complete for your cleanup plan. The description does not name the final mission, a meeting location, or any time restriction; those details require confirmation from the game.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":28,"name":"Positive Mental Attitude","description":"Meditate at every spot across Leonida.","grade":"bronze","kind":"collectibles","stage":4,"guide":"Create a regional ledger of meditation spots while exploring Leonida, and mark each only after completing its interaction. Revisit uncertain entries before searching for new ones; seeing a spot is not the same as meditating there. Pair this sweep with map exploration to reduce repeated travel. The official wording requires every spot but provides no total or coordinates, so this guide does not invent a fixed checklist of locations.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets); GTA Wiki (gta.fandom.com) for world terms"},
+ {"id":29,"name":"Fair Game","description":"Hunt a unique animal for Bret.","grade":"bronze","kind":"side","stage":2,"guide":"Look for Bret's hunting request and read the target instructions before pursuing an animal. Keep the requested target and any completion or delivery step in your notes so a generic hunt is not mistaken for this task. Check that Bret's objective has resolved before ticking the trophy. The official description does not identify the species, hunting ground, equipment, or encounter conditions; follow the in-game request rather than an assumed spawn.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":30,"name":"Don't Touch My Deck","description":"Complete 3 Collectible Card sets.","grade":"silver","kind":"collectibles","stage":4,"target":3,"unit":"complete card sets","guide":"Track missing cards by set instead of counting loose cards toward this target. Increase the counter only when a full set is complete, stopping at three. During exploration, note where a card was obtained so remaining gaps can be investigated systematically. Prioritize nearly finished sets over scattered collecting. The description confirms three complete sets but does not establish their names, sizes, trading rules, or card locations.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":31,"name":"You WAiNKer!","description":"WAiNK It at 100 locations.","grade":"silver","kind":"collectibles","stage":4,"target":100,"unit":"WAiNK locations","guide":"Use a region-by-region ledger and update the counter after each newly confirmed WAiNK location, working toward 100. Separate visited places from successfully credited interactions so your count remains useful during cleanup. Add a few fresh locations during normal travel rather than saving the whole sweep for last. The description does not explain the interaction or list coordinates; confirm the mechanic and distinct-location credit in game before plotting a detailed route.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":32,"name":"One Last Thing","description":"Complete 50 Challenges.","grade":"bronze","kind":"activities","stage":3,"target":50,"unit":"challenges","guide":"Choose small batches of challenges that fit your current activity, then update the counter from confirmed completions until it reaches 50. Keep notes on unfinished objectives so you can return with the right equipment or practice. Prioritize variety if repeats fail to increase the game's total. The official description gives the target but does not identify the eligible challenge system or whether repeated challenges count; validate that before grinding.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":33,"name":"Hot Together","description":"Lose a 4 star Wanted Level with your partner and escape the heat.","grade":"bronze","kind":"feats","stage":5,"guide":"Have your partner present before building a four-star wanted level, then focus on surviving the escape together. Prepare transport and an exit plan before escalating; chasing extra trouble after reaching four stars only adds risk. Wait until the heat is fully cleared before marking success. The description requires the partner and escape, but does not specify a vehicle, hiding place, or exact partner-distance rule; check those through play.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":34,"name":"Retail Therapy","description":"Rob 3 shops back-to-back with your partner without losing your Wanted Level.","grade":"bronze","kind":"feats","stage":5,"target":3,"unit":"shops in one wanted run","guide":"Scout three shops and a connecting route before starting with your partner. Rob them consecutively while keeping the wanted level active; do not hide long enough to clear it between stops. Use the counter as a run checklist, resetting it if the heat disappears. This is one continuous sequence, not a lifetime total. The description does not name eligible shops or a permitted delay, so confirm those constraints in game.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":35,"name":"Whip It Good","description":"Discover 100 vehicles.","grade":"bronze","kind":"collectibles","stage":4,"target":100,"unit":"vehicles discovered","guide":"Build a vehicle ledger during ordinary travel and seek variety rather than repeatedly encountering the same model. Update the counter only when a discovery is confirmed, steadily working toward 100. Note promising vehicle types while doing races or exploration, and investigate gaps later. The official description does not define discovery as sighting, driving, or ownership; test what the game credits before committing to an expensive collection strategy.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":36,"name":"Gunslinger","description":"Take down 5 enemies in a single use of Combat Focus.","grade":"bronze","kind":"feats","stage":5,"guide":"Wait for an encounter with at least five enemies and prepare before activating Combat Focus. Select clear targets and avoid spending the limited window moving between distant opponents. Count takedowns within that single activation; several separate uses cannot satisfy the wording. Save before a suitable encounter if possible. The description does not specify a weapon, duration, or whether nonlethal takedowns qualify, so verify those mechanics rather than assuming them.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":37,"name":"Catch Me If You Can","description":"Make an unscheduled departure at VCIA.","grade":"bronze","kind":"feats","stage":1,"missable":true,"warning":"VCIA Takedown story window: make the unscheduled departure before that mission closes. Keep a separate pre-mission save; replay access is unconfirmed.","guide":"Plan this alongside VCIA Takedown, before completing that story window. VCIA is Vice City International Airport; look for the opportunity to leave in an unscheduled way and preserve a pre-mission save until the trophy unlocks. Do not assume a normal airport visit later can substitute. The departure method is not named in the official description: an aircraft escape is a reasonable reading, not a confirmed vehicle or route. Verify the exact interaction in game.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets); GTA Wiki (gta.fandom.com) for world terms"},
+ {"id":38,"name":"Challenging Tank","description":"Kinda hot in these Rhinos.","grade":"bronze","kind":"feats","stage":5,"guide":"Treat this as an unresolved riddle, not a proven combat recipe. Rhinos most reasonably suggests tanks, while hot may refer to heat or danger; investigate a relevant encounter with a backup save and record what actually triggers progress. Avoid buying equipment solely for this guess. The description does not specify stealing, destroying, surviving in, or heating a tank, so the intended action remains unconfirmed until tested in game.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":39,"name":"Sneakthief","description":"Rob a jewelry store without being detected.","grade":"bronze","kind":"feats","stage":5,"guide":"Scout a jewelry store before attempting the robbery and watch whatever detection feedback the game provides. Prioritize a clean attempt over speed; if an alarm or detection state appears, preserve your notes and retry rather than assuming the loot alone satisfies it. Keep a pre-attempt save where possible. The official description does not identify a store, entry point, disguise, or detection threshold, so no specific stealth route is confirmed here.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":40,"name":"Maximum Withdrawal","description":"Rob 5 Bank Vaults and escape.","grade":"silver","kind":"feats","stage":5,"target":5,"unit":"vault robberies with escape","guide":"Plan an escape before each bank-vault attempt and update the counter only after the robbery and getaway both succeed. Work toward five confirmed successes, noting the bank and result so incomplete escapes do not inflate your total. Space attempts around preparation rather than rushing under-equipped. The description does not establish whether vaults must be distinct or whether story heists qualify; check recorded credit before repeating a convenient target.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":41,"name":"A Classic Blitz Play","description":"Rob an Armored Truck and escape.","grade":"bronze","kind":"feats","stage":5,"guide":"Identify an armored truck opportunity and prepare an escape route before beginning the robbery. Focus on completing both halves: taking the haul without a successful getaway is not the stated requirement. Keep notes on the encounter and whether the escape result registers. The description does not identify a truck route, spawn time, required weapon, or method of entry; use what the game teaches rather than assuming a particular ambush location.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":42,"name":"The Goodtime State","description":"Explore all of Leonida.","grade":"bronze","kind":"collectibles","stage":4,"guide":"Sweep Leonida region by region and keep notes on unexplored edges, routes, and any remaining map gaps. Combine this with meditation, WAiNK, and vehicle discovery to make travel productive. Recheck the game's exploration record after each sweep rather than judging only by visual familiarity. The description names the whole state but gives no region count or exploration threshold; the precise credit rules must come from in-game confirmation.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets); GTA Wiki (gta.fandom.com) for world terms"},
+ {"id":43,"name":"Pest Control","description":"Rob an Illegal Operation belonging to each gang.","grade":"bronze","kind":"feats","stage":5,"guide":"Keep a gang-by-gang ledger and record one successfully robbed illegal operation for each confirmed faction. Repeating one gang's sites will not cover the word each, so prioritize missing affiliations over easy repeats. Note the operation and its owner before starting to avoid duplicate work. The official description does not state the gang count, operation locations, or access requirements; build that checklist from verified encounters rather than guessed totals.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":44,"name":"In The Beginning…","description":"Enjoy a cocktail with a view on Ocean Beach.","grade":"bronze","kind":"story","stage":1,"missable":true,"warning":"Possible early story opportunity on Ocean Beach. The title suggests an opening beat; check before leaving that sequence. Exact lock point is unconfirmed.","guide":"Check Ocean Beach during early story exploration for a cocktail interaction with a view. Preserve an early save until you have tested the opportunity; the title suggests an opening-story reference, which is why this roadmap flags it cautiously. Do not assume any drink anywhere qualifies. The official description names Ocean Beach but not a bar, viewpoint, chapter, or lock point, so both the exact interaction and missability remain unconfirmed.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets); GTA Wiki (gta.fandom.com) for world terms"},
+ {"id":45,"name":"Capital Offense","description":"Smash your way out of a vehicle showroom in classic style.","grade":"bronze","kind":"feats","stage":5,"guide":"Look for an accessible vehicle showroom and investigate how its vehicles and exits interact before attempting a breakout. Keep a backup save and note the exact action if an attempt succeeds; a collision outside a showroom is not the stated setup. The phrase classic style may imply a reference, but the official description names no showroom, vehicle, or required window, so a specific breakout route cannot yet be confirmed.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":46,"name":"Let’s Go Bowling","description":"Follow-through at the Kolt & Associates' bowling alley.","grade":"bronze","kind":"activities","stage":3,"guide":"Investigate the bowling alley associated with Kolt & Associates and read its available interactions before assuming an ordinary bowling score is enough. Try the relevant activity through its result, then record what actually unlocks the trophy. Keep this separate from Ten Pin's melee drive-by requirement. The description's follow-through wording is ambiguous and supplies no score, mission, or exact interaction; its intended action needs in-game confirmation.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":47,"name":"Personal Best","description":"A partnership with mass appeal.","grade":"bronze","kind":"story","stage":1,"guide":"Treat this as a story-linked riddle and continue the main narrative in order while recording notable partnership moments. Mass appeal might suggest a public-facing joint event, but it is not enough evidence to prescribe a mission or action. Keep chapter saves so a later discovery can be investigated without restarting everything. No mission, chapter, or trigger is named in the description; this reading is provisional rather than a confirmed unlock method.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":48,"name":"Actions Speak Louder","description":"Choices made (for better or worse).","grade":"bronze","kind":"story","stage":1,"missable":true,"warning":"Choice-driven story precaution: preserve a save before decisions. A choice may close a branch; neither the required decision nor the exact lock point is confirmed.","guide":"Keep separate saves before story decisions and note the option selected plus its immediate result. The wording points toward choices, but does not justify naming a correct moral route or inventing a decision count. Continue the story in order while preserving alternatives until the trophy condition is known. This is flagged because branches may close opportunities; the official description identifies no mission, chapter, specific choice, or confirmed lock point.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":49,"name":"Bad Luck, I Guess","description":"Second time's the charm.","grade":"bronze","kind":"story","stage":1,"missable":true,"warning":"Possible retry-dependent story beat: the wording implies a first attempt goes wrong. Preserve the original attempt and a pre-event save. Exact event and lock point are unknown.","guide":"The most reasonable reading is success after an initial failure, but the description is a riddle rather than a confirmed instruction. Preserve saves around unusual story attempts and record whether the game offers a second chance. Do not deliberately ruin an irreversible mission solely for this guess. Continue the story in order; no chapter, event, or failure type is named, and both the retry trigger and missability need confirmation.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":50,"name":"The Truth Is Out There","description":"What the hell just happened?","grade":"bronze","kind":"feats","stage":5,"guide":"Treat unusual encounters as leads and record where, when, and under what conditions they occurred. The title suggests a mystery or strange event, but that does not establish a UFO, a location, or a time of day. Keep a save before investigating a promising lead so you can compare outcomes. The official description is intentionally vague; witnessing an extraordinary event is only a working interpretation, not a verified route.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":51,"name":"Ten Pin","description":"Bowl 'em over with a melee drive-by.","grade":"bronze","kind":"activities","stage":3,"guide":"Learn the game's melee drive-by controls, then attempt a controlled pass close enough to connect without simply colliding. Focus on confirming a melee knockdown rather than using a firearm or counting a traffic impact. Use a manageable situation and note which vehicle and input worked. The official description does not specify a vehicle class, victim count, speed, or location; those details should be tested rather than inferred from the title.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":52,"name":"Dime on the Dollar","description":"Earn $250,000 laundering Marked Bills through your contacts.","grade":"bronze","kind":"feats","stage":5,"target":250000,"unit":"dollars earned laundering","guide":"Use contacts who handle Marked Bills and record the money actually earned from completed laundering, building toward $250,000. Update this counter after each confirmed payout, not when you merely obtain marked cash. Keep a session ledger so fees or losses do not inflate your estimate. The description specifies earnings through contacts but not conversion rates, cooldowns, or contact locations; verify those in game before planning a farming loop.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":53,"name":"Treat Yo Self","description":"Spend $100,000 across all shops.","grade":"bronze","kind":"feats","stage":5,"target":100000,"unit":"dollars spent in shops","guide":"Accumulate shop purchases during normal play and update the counter from confirmed spending toward $100,000. Prioritize items you already need so this target does not drain funds reserved for garages or other goals. Keep a purchase ledger if the game offers no clear spending statistic. The description allows spending across shops but does not define eligible purchase categories or whether every shop must be visited; confirm those boundaries through in-game credit.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":54,"name":"Little Boxes","description":"Purchase all garage properties.","grade":"bronze","kind":"feats","stage":5,"guide":"Keep a property ledger separating owned garages from those still available, and reserve money before optional spending. Buy missing garage properties as they become accessible, checking ownership after each transaction. Revisit the available-property list late in the story in case more have opened. The description requires all garage properties but names neither their total nor prices or unlock conditions; build your budget from the game's listings rather than an assumed count.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets)"},
+ {"id":55,"name":"On the Spot","description":"Register 10 vehicles to the Scooter Bros app.","grade":"bronze","kind":"collectibles","stage":4,"target":10,"unit":"vehicles registered","guide":"Use the in-game Scooter Bros app to register vehicles and confirm each accepted entry before increasing the counter toward ten. Combine this with vehicle discovery, but keep the two totals separate because discovering a vehicle need not register it. Record accepted vehicles to avoid wasted repeats. The description names the app and target but not registration eligibility, rewards, or whether duplicates qualify; follow the app's actual feedback for those rules.","sources":"Exophase — Grand Theft Auto VI (PS5) trophy list (official names, descriptions, grades); PSNProfiles — GTA VI trophy list (cross-check & progress targets); GTA Wiki (gta.fandom.com) for world terms"}
  ]
 }

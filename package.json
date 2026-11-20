@@ -1,0 +1,9 @@
+{
+  "name": "vice-platinum",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node serve.ts", "shots": "node tools/shots.mjs" },
+  "dependencies": {
+    "playwright": "^1.65.1"
+  }
+}
