@@ -17,6 +17,9 @@
 // Vice Platinum: an offline field guide with 55 individually cited trophy guides.
 // Includes a six-stage roadmap, inferred missable warnings and spoiler-safe tracking.
 // Local progress, counters and notes travel together through JSON export and import.
+// Second edition: Vice Platinum puts the save ledger on its own photographed page.
+// That page pairs the earned medal totals with visible export and import controls,
+// so a portable backup is part of the guide rather than a hidden convenience.
 
 import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -39,3 +42,4 @@ writeFileSync(
   buildDossier(out, { text_max_bytes: 163840, screenshots: { max: 4, max_bytes: 262144 }, app_max_files: 993, app_max_bytes: 50331648 }),
 );
 console.log('Handed in Vice Platinum: offline app, 55 cited guides, roadmap, missables and four rendered screenshots.');
+console.log('Second edition delivered: the save ledger and its backup controls appear among four fresh browser captures.');

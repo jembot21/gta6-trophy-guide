@@ -1,26 +1,17 @@
 # Vice Platinum — GTA VI Trophy Guide & Tracker
 
-![make.fun bounty](https://make.fun/badge/gta6-trophy-guide-01.svg)
-![Entry rank](https://make.fun/badge/gta6-trophy-guide-01/jembot21/gta6-trophy-guide/rank.svg)
-![Entry reward](https://make.fun/badge/gta6-trophy-guide-01/jembot21/gta6-trophy-guide/reward.svg)
+![Competition](https://make.fun/badge/gta6-trophy-guide-01.svg)
+![Rank](https://make.fun/badge/gta6-trophy-guide-01/jembot21/gta6-trophy-guide/rank.svg)
+![Reward](https://make.fun/badge/gta6-trophy-guide-01/jembot21/gta6-trophy-guide/reward.svg)
 
-An independent entry for the [make.fun GTA VI trophy guide bounty](https://make.fun/bounty/gta6-trophy-guide-01). Vice Platinum turns the supplied 55-trophy PlayStation 5 list into an original, offline field guide and personal progress tracker.
+A second-edition entry for the [make.fun trophy-guide bounty](https://make.fun/bounty/gta6-trophy-guide-01). Vice Platinum is a small, offline field guide for the supplied 55-trophy PlayStation 5 list, presented as a warm paper ledger with pink annotations and teal progress marks.
 
-- All official names, descriptions and grades, with 55 original cited guides.
-- Saved earned progress, per-grade totals, manual counters and private trophy notes.
-- Kind, grade, search and unearned filters; spoiler shielding for unearned story trophies across every view.
-- Six-stage platinum roadmap, four inferred missable precautions and a next-five queue.
-- JSON export/import for earned trophies, counts, notes and spoiler preference; explicit reset confirmation.
-- Warm paper, serif display typography, pink and teal accents; responsive keyboard-accessible interface with no images, webfonts or external requests.
+Track earned trophies, manual counters and personal notes. Filter by activity kind, grade, missable status, text or unearned trophies. A spoiler shield masks unearned story names, descriptions and guides. Six roadmap stages organize the platinum route; the missable watchlist explains inferred risks, and Next up prioritizes those warnings before ordinary cleanup.
 
-Run `node serve.ts`, then open http://localhost:8080. Alternatively, use any static HTTP server with `app/` at its root. No build step or application dependencies are required. The app works without internet once served locally; progress stays in this browser's localStorage under `vice-platinum-v1`. Export before changing devices or clearing browser data.
+The Save & transfer page leads with saved progress, medal totals and counted trophies in progress. Its visible **Export progress** and **Import progress** controls move the same JSON record between browsers. Reset asks for confirmation. Progress persists under `vice-platinum-save-v2` in localStorage; no account or remote service is involved.
 
-## Sources & scope
+Run `node serve.ts`, then open **http://localhost:8080**. Any static server also works when `app/` is its root. There is no build step, webfont, image asset or external app request. The badges above belong to this README, not the app.
 
-The supplied official list attributes names, descriptions and grades to **Exophase — Grand Theft Auto VI (PS5) trophy list**, with **PSNProfiles — GTA VI trophy list** for cross-checks and progress targets. **GTA Wiki (gta.fandom.com)** supplies world terminology where relevant. Each trophy includes its own named source line. Guide prose is original interpretation of those descriptions, not a copied walkthrough. Specific locations and mechanics not established by the descriptions remain explicitly unconfirmed. Missable flags are inferred and will be confirmed once the game is out. Manual counts are not a PlayStation integration. No affiliation with Rockstar Games.
+Every guide is newly composed for this edition from the official descriptions supplied in the kit. Sources are named on each trophy: Exophase — Grand Theft Auto VI (PS5) trophy list for names, descriptions and grades; PSNProfiles — GTA VI trophy list for cross-checking and progress targets; GTA Wiki (gta.fandom.com) for relevant world terms. Specific locations, mission chronology, secret triggers and replay access are not invented. Missable warnings are explicit inferences to be confirmed once the game is out. No Rockstar artwork or copied walkthrough prose is used.
 
-## Reproduce the entry
-
-Install screenshot tooling with `npm install playwright` and `npx playwright install chromium`. Run `node tools/shots.mjs` to launch the local server, verify behavior and capture four seeded 1280×800 JPEGs. The script prints dimensions and enforces the 256 KiB limit. It also checks exact starter trophy fields, all guides and stage membership.
-
-Run `mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts` to copy the app and screenshots into the hand-in directory and write `out/dossier.json`. The vendor hand-in logic is unchanged.
+Run `node tools/shots.mjs` to render and verify four 1280×800 JPEGs, including the Save page. The script also exercises persistence, filters, notes, counters, export, import and reset. Run `mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts` to assemble the submission dossier with the unchanged vendored kit.
